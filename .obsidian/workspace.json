@@ -43,34 +43,28 @@
             "id": "e0550e47b3f7a6cf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sheets/Numerische Analysis 1/Vorlesung2handout.pdf"
-              }
-            }
-          },
-          {
-            "id": "d0ade902d0d358cf",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Gleitkommazahlen.md",
+                "file": "Mengen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3098b61834158c19",
+            "id": "7537cde5ea24a056",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2023-06-21.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily notes/2023-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily notes/2023-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily notes/2023-06-21.md"
+              }
             }
           }
         ]
@@ -202,30 +199,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3098b61834158c19",
+  "active": "7537cde5ea24a056",
   "lastOpenFiles": [
-    "Absolute und Relative Haufigkeit.md",
-    "Untitled 2.md",
-    "daily notes/2023-05-16.md",
-    "Konditionen.md",
-    "sheets/Numerische Analysis 1/Vorlesung2handout.pdf",
-    "Gleitkommazahlen.md",
+    "Abbildung.md",
+    "daily notes/2023-06-21.md",
+    "Beweisprinzipien.md",
+    "daily notes/2021-10-18.md",
+    "daily notes/2021-10-19.md",
+    "daily notes/2021-10-20.md",
+    "daily notes/2021-10-21.md",
+    "daily notes/2021-10-26.md",
+    "daily notes/2021-10-27.md",
+    "daily notes/2021-10-28.md",
+    "daily notes/2021-10-29.md",
+    "daily notes/2021-12-04.md",
+    "daily notes/2021-12-08.md",
+    "daily notes/2021-12-10.md",
+    "daily notes/2021-12-09.md",
+    "daily notes/2023-03-01.md",
     "daily notes/2023-05-09.md",
-    "daily notes/2022-10-24.md",
-    "Untitled 1.md",
+    "daily notes/2023-05-16.md",
     "daily notes/2022-11-15.md",
     "daily notes/2022-10-31.md",
+    "daily notes/2022-10-25.md",
+    "daily notes/2022-10-24.md",
+    "daily notes/2022-10-21.md",
     "daily notes/2022-10-17.md",
-    "Alphabet.md",
-    "daily notes/2022-02-08.md",
-    "daily notes/2022-01-19.md",
-    "Abstrakte Datentypen.md",
-    "Algebraische Strukturen.md",
-    "Absolutbetrag.md",
-    "Algorithmus.md",
-    "Abbildungsvorschrift.md",
-    "Abbildung.md",
-    "daily notes/2023-03-01.md",
-    "daily notes/2022-10-25.md"
+    "daily notes/2022-05-27.md",
+    "daily notes/2021-12-20.md",
+    "sheets/Numerische Analysis 1/Vorlesung3handout.pdf",
+    "sheets/Numerische Analysis 1/Vorlesung2handout.pdf",
+    "sheets/Numerische Analysis 1/blatt03.pdf",
+    "sheets/Numerische Analysis 1/blatt01.pdf",
+    "images/Pasted image 20211013170943.png",
+    "images/Pasted image 20211025090008.png",
+    "images/Pasted image 20220512090936.png",
+    "images/Pasted image 20230301172435.png",
+    "images/Pasted image 20211223165238.png"
   ]
 }
