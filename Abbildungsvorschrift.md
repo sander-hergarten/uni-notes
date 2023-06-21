@@ -1,0 +1,1 @@
+ Eine [[Abbildung]] enthaelt eine Abbildungsvorschrift. diese erhaelt ein Objekt und gibt eine anderes zurueck.

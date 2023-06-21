@@ -1,0 +1,1 @@
+Zwei [[Logische Terme oder Zusammengesetzte Boolsche Funktionen]]  defieniert auf der selben  Variebelenmenge/Wortmenge sind logisch aequivalent wenn beide den selben Wahrheitswert  fuer jede belegung der variablen hat.

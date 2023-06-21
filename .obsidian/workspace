@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "bfced8d2be1b564e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8ea7d936bb211b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eigenvektor.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b47ba6679fd22471",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8f68b731c7bb7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5443df2838f7d62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "329e8371c22f5618",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "supre",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d237ce52bac483c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68b7303fd33b697f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b73d91e8a99e4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4cf0ea228c3721f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eigenvektor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a7f34047705e478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eigenvektor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f1b66646809d5a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52e472c52aaadff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eigenvektor.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb8ea7d936bb211b",
+  "lastOpenFiles": [
+    "Vektornorm.md",
+    "Normen.md",
+    "Matrixnorm.md",
+    "Supremum und infimum.md",
+    "Modul.md",
+    "Ring.md",
+    "Gruppe.md",
+    "Mengen.md",
+    "Monoid.md",
+    "GSM.md"
+  ]
+}
