@@ -28,43 +28,15 @@
             }
           },
           {
-            "id": "04c06e7b95ab4810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2023-05-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0550e47b3f7a6cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mengen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7537cde5ea24a056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2023-06-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2023-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2023-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily notes/2023-06-21.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7537cde5ea24a056",
+  "active": "a5443df2838f7d62",
   "lastOpenFiles": [
-    "Abbildung.md",
+    "Mengen.md",
+    "daily notes/vv",
     "daily notes/2023-06-21.md",
+    "Abbildung.md",
     "Beweisprinzipien.md",
     "daily notes/2021-10-18.md",
     "daily notes/2021-10-19.md",
@@ -226,7 +196,6 @@
     "daily notes/2022-10-21.md",
     "daily notes/2022-10-17.md",
     "daily notes/2022-05-27.md",
-    "daily notes/2021-12-20.md",
     "sheets/Numerische Analysis 1/Vorlesung3handout.pdf",
     "sheets/Numerische Analysis 1/Vorlesung2handout.pdf",
     "sheets/Numerische Analysis 1/blatt03.pdf",
